@@ -1,4 +1,4 @@
-package home.lr1;
+package home.lr1.task3;
 import java.util.Scanner;
 import java.lang.Math;
 

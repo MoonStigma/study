@@ -1,4 +1,4 @@
-package home.lr2;
+package home.lr2.task2;
 
 import java.util.Scanner;
 
